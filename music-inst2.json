@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Piano2",
+        "history": "very old",
+        "specs": {
+            "type": [
+                "Upright",
+                "Digital",
+                "Hybrid"
+            ],
+            "category": [
+                "73 keys",
+                "76 keys",
+                "88 keys"
+            ]
+        }
+    },
+    {
+        "name": "Guitar2",
+        "history": "old",
+        "specs": {
+            "type": [
+                "Eclectic",
+                "Eclectic Bass",
+                "Classical"
+            ],
+            "category": [
+                "6 strings",
+                "12 strings",
+                "8 strings"
+            ]
+        }
+    },
+    {
+        "name": "Ukulele2",
+        "history": "new",
+        "specs": {
+            "types": [
+                "Baritone",
+                "Bass",
+                "Contrabass"
+            ],
+            "category": [
+                "21 Frets",
+                "18 Frets",
+                "16 Frets"
+            ]
+        }
+    }
+]

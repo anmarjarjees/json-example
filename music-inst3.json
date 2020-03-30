@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Piano3",
+        "history": "very old",
+        "specs": {
+            "type": [
+                "Electric",
+                "Digital",
+                "Grand"
+            ],
+            "category": [
+                "73 keys",
+                "76 keys",
+                "88 keys"
+            ]
+        }
+    },
+    {
+        "name": "Guitar3",
+        "history": "old",
+        "specs": {
+            "type": [
+                "Acoustic",
+                "Eclectic",
+                "Classical"
+            ],
+            "category": [
+                "6 strings",
+                "12 strings",
+                "8 strings"
+            ]
+        }
+    },
+    {
+        "name": "Ukulele3",
+        "history": "new",
+        "specs": {
+            "types": [
+                "Pocket",
+                "Bass",
+                "Contrabass"
+            ],
+            "category": [
+                "10 Frets",
+                "18 Frets",
+                "16 Frets"
+            ]
+        }
+    }
+]
