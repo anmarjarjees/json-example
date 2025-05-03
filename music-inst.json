@@ -1,8 +1,8 @@
 [
     {
         "name": "Piano",
-        "history": "very old",
-        "types": {
+        "history": "The piano was invented in 1700 by Bartolomeo Cristofori in Italy.",
+        "specs": {
             "type": [
                 "Baby Grand",
                 "Parlor Grand",
@@ -13,38 +13,52 @@
                 "76 keys",
                 "88 keys"
             ]
-        }
+        },
+        "famous_brands": [
+            "Steinway & Sons",
+            "Yamaha",
+            "Bosendorfer"
+        ]
     },
     {
         "name": "Guitar",
-        "history": "old",
-        " specs": {
+        "history": "Originated in Spain in the 15th century and evolved over centuries.",
+        "specs": {
             "type": [
                 "Acoustic",
-                "Eclectic",
+                "Electric",
                 "Classical"
             ],
             "category": [
                 "6 strings",
                 "12 strings",
-                "8 strings"
+                "7 strings"
             ]
-        }
+        },
+        "famous_brands": [
+            "Fender",
+            "Gibson",
+            "Tyler"
+        ]
     },
     {
         "name": "Ukulele",
-        " history ": "new",
-        " specs ": {
-            "types": [
+        "history": "The ukulele originated in Hawaii in the late 19th century, based on Portuguese instruments.",
+        "specs": {
+            "type": [
                 "Soprano",
                 "Concert",
                 "Tenor"
             ],
             "category": [
-                "12 Frets",
-                "13 Frets",
-                "14 Frets"
+                "4 strings",
+                "6 strings"
             ]
-        }
+        },
+        "famous_brands": [
+            "Kamaka",
+            "Lanikai",
+            "Kala"
+        ]
     }
 ]
